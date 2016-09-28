@@ -35,6 +35,8 @@
   "author": "Minko Gechev <mgechev>",
   "license": "MIT",
   "devDependencies": {
+    "@ngrx/store-devtools": "3.0.0",
+    "@ngrx/store-log-monitor": "3.0.0",
     "async": "^2.0.0",
     "autoprefixer": "^6.3.7",
     "browser-sync": "^2.13.0",
@@ -91,6 +93,7 @@
     "remap-istanbul": "^0.6.4",
     "rimraf": "^2.5.3",
     "run-sequence": "^1.2.2",
+    "rxjs": "5.0.0-beta.6",
     "semver": "^5.3.0",
     "serve-static": "^1.11.1",
     "slash": "~1.0.0",
@@ -122,6 +125,8 @@
     "@angular/router": "3.0.0-rc.1",
     "es6-module-loader": "^0.17.8",
     "core-js": "^2.4.0",
+    "@ngrx/core": "^1.0.0",
+    "@ngrx/store": "^2.0.0",
     "rxjs": "5.0.0-beta.6",
     "systemjs": "0.19.27",
     "zone.js": "^0.6.12"
